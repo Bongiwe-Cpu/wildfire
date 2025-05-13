@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Helping Hands – Volunteer Wildfire Services</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+    }
+    header {
+      background-color: #d32f2f;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #b71c1c;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #d32f2f;
+    }
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .stat {
+      flex: 1 1 200px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    .stat h3 {
+      margin: 0;
+      font-size: 2em;
+      color: #d32f2f;
+    }
+    .stat p {
+      margin: 5px 0 0;
+      font-size: 1em;
+    }
+    .donate {
+      background-color: #fff3e0;
+      padding: 20px;
+      border-left: 5px solid #ff9800;
+    }
+    footer {
+      background-color: #d32f2f;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+    .image-placeholder {
+      width: 100%;
+      height: 200px;
+      background-color: #ccc;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #666;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Helping Hands</h1>
+    <p>Volunteer Wildfire Services</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+    <a href="#">Donate</a>
+  </nav>
+
+  <main>
+    <section>
+      <div class="image-placeholder">[Image: WhatsApp Image 2025-04-24 at 11.47.43.jpeg]</div>
+      <h2>Volunteer Wildfire Services</h2>
+      <p><em>"Fighting fires, serving communities"</em></p>
+    </section>
+
+    <section>
+      <h2>Our Vision</h2>
+      <p>Our vision is to be leading forces in wildfire prevention and mitigation, empowering communities to coexist with wildfires through innovation and collaborative efforts. We strive to protect lives and property while promoting a culture of wildfire safety and resilience.</p>
+    </section>
+
+    <section class="stats">
+      <div class="stat">
+        <h3>4</h3>
+        <p>Bases</p>
+      </div>
+      <div class="stat">
+        <h3>350+</h3>
+        <p>Volunteers</p>
+      </div>
+      <div class="stat">
+        <h3>66</h3>
+        <p>2023/24 Callouts</p>
+      </div>
+      <div class="stat">
+        <h3>R1,000,000</h3>
+        <p>Value of Services</p>
+      </div>
+    </section>
+
+    <section class="donate">
+      <h2>Get Involved – Rebuild Our Communities!</h2>
+      <p>The organisation depends entirely on public and corporate donations. Their work depends on continuous support because it enables them to respond quickly while protecting lives and preserving vulnerable ecosystems. Every donation directly supports volunteer training, operational costs, and mission resources.</p>
+      <p><a href="#" style="color: #d32f2f; font-weight: bold;">Donate Now</a></p>
+    </section>
+
+    <section>
+      <div class="image-placeholder">[Image: Firehose]</div>
+      <div class="image-placeholder">[Image: Wild Fire]</div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Helping Hands | <a href="https://bongiweboyise9.wixsite.com/wildfire" style="color: white;">Original Website</a></p>
+  </footer>
+</body>
+</html>
